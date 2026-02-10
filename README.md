@@ -32,18 +32,20 @@
 ## 🚀 Experience
 
 ### 🎓 삼성청년SW·AI아카데미 (SSAFY)
-**2학기: 실전 프로젝트 과정** (2026.01 - 현재)
-> **AI 기반 ADHD 아동 행동 교정 및 수업 보조 에듀테크 서비스**
+**2학기: 실전 프로젝트 과정** (2026.01 - 현재) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/thduss/icethang)
+> **AI 기반 ADHD 아동 행동 교정 및 수업 보조 에듀테크 서비스** <br>
 - **Role**: Backend Developer, DevOps
 - Jenkins 기반 CI/CD 파이프라인 구축 및 자동화
 - Spring Boot 기반 RESTful API 설계 및 구현
 
 **1학기: 코딩 집중 과정 (Java 전공반)** (2025.07 - 2025.12)
 - 알고리즘 및 웹 개발 심화 과정 수료
+> AI 장소 추천 여행 애플리케이션 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/aslung-travelApp)
 - **🏆 성과**: 1학기 성적 우수 1등, 1학기 관통 프로젝트 최우수상 수상
 
 ### 🏦 신한은행 해커톤 with SSAFY
-**자동저축 서비스 개발** (2025.08)
+
+**자동저축 서비스 개발** (2025.08) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Shinhan-MohaeMoyong/MohaeMoyong)
 > 시간표와 SNS 기능을 결합한 대학생 타겟 핀테크 서비스
 - **Role**: Backend Developer
 - SSAFY 금융망 API를 활용한 이체/조회 기능 구현
@@ -56,7 +58,7 @@
 - 분석 결과 시각화 대시보드 개발
 
 ### 🏫 산학협력 캡스톤 프로젝트
-**LLM 기반 아이템 비교분석 요약 기술 개발** (2024.03 - 2024.06)
+**LLM 기반 아이템 비교분석 요약 기술 개발** (2024.03 - 2024.06) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/thduss/Capstion-hit)
 - **Role**: Backend Developer, DevOps
 - **🏆 성과**: '전북대학교 2024 SW 캡스톤디자인 경진대회' **대상** 수상
 
