@@ -4,9 +4,6 @@
 
 <div align="center">
   <h3> 🌱 끊임없이 성장하는 백엔드 개발자, thduss입니다. </h3>
-  <br>
-  안정적인 서버 구축과 비즈니스 로직 설계에 몰입합니다.<br>
-  사용자의 불편함을 기술로 해결하는 과정 자체를 즐깁니다.
 </div>
 <br>
 
@@ -16,8 +13,6 @@
 
 ### Backend & Languages
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
-<br>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ### Infrastructure & Database
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -25,7 +20,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 ### Tools & Frontend
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <br>
 
@@ -34,7 +29,7 @@
 ### 🎓 삼성청년SW·AI아카데미 (SSAFY)
 **2학기: 실전 프로젝트 과정** (2026.01 - 현재) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/thduss/icethang)
 > **AI 기반 ADHD 아동 행동 교정 및 수업 보조 에듀테크 서비스** <br>
-- **Role**: Backend Developer, DevOps
+- **Role**: Backend Developer, DevOps, PL
 - Jenkins 기반 CI/CD 파이프라인 구축 및 자동화
 - Spring Boot 기반 RESTful API 설계 및 구현
 
