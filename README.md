@@ -30,13 +30,13 @@
 
 | 기간 | 기관/조직 | 역할 | 프로젝트 |
 |------|-----------|------|----------|
-| 2026.01 - 현재 | 삼성청년SW·AI아카데미 | Backend Developer, DevOps, PL | AI 기반 ADHD 아동 행동 교정 에듀테크 서비스 |
+| 2026.04 - 현재 | 삼성청년SW·AI아카데미 | Backend Developer | TTS를 활용한 간호일지 자동화 서비스 |
+| 2026.02 - 2026.03 | 삼성청년SW·AI아카데미 | Backend Developer, AI | RAG기반 트러블슈팅 자동화 및 채용 추천 서비스 |
+| 2026.01 - 2026.02 | 삼성청년SW·AI아카데미 | Backend Developer, DevOps, PL | AI 기반 ADHD 아동 행동 교정 에듀테크 서비스 |
 | 2025.07 - 2025.12 | 삼성청년SW·AI아카데미 | 수강생 (Java 전공반) | AI 장소 추천 여행 애플리케이션 |
 | 2025.08 | 신한은행 해커톤 with SSAFY | Backend Developer | 자동저축 서비스 (핀테크) |
 | 2024.09 - 2024.12 | (주)선도소프트 (학점연계 인턴) | Data Analytics, Frontend Developer | 인구 데이터 분석 및 시각화 대시보드 |
 | 2024.03 - 2024.06 | 산학협력 캡스톤 프로젝트 | Backend Developer, DevOps | LLM 기반 아이템 비교분석 요약 기술 개발 |
-
----
 
 ### 🔍 상세 내역
 
