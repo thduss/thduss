@@ -136,7 +136,7 @@
 
 ## 📜 Certifications
 - **SQL 개발자 (SQLD)** - 한국데이터산업진흥원 (2025.06)
-- **TOEIC Speaking IM3** (2025.02)
+- **TOEIC Speaking IH** (2026.02)
 - **정보처리기사** - 한국산업인력공단 (2024.06)
 
 ## 📫 Contacts
